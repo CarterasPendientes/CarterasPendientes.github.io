@@ -1,6 +1,11 @@
 li{
     color:gray
 }
+video{
+    width:7280px;
+    height:680px;
+    background-color: red;
+}
 
 /*Selector por Atributo             */
 img[src="jannik-sinner-forehand.jpg"]{ 
@@ -27,4 +32,5 @@ h1+p{
 h1+p+p{
     color:#182e;
 }
+
 
