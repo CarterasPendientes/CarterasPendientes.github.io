@@ -2,8 +2,8 @@ li{
     color:gray
 }
 video{
-    width:780px;
-    height:680px;
+    width:400px;
+    height:320px;
     background-color: red;
 }
 
@@ -32,6 +32,7 @@ h1+p{
 h1+p+p{
     color:#182e;
 }
+
 
 
 
